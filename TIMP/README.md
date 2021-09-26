@@ -2,7 +2,7 @@
 ###### Assignments for Programming technologies and methods, ITMO University, Faculty of Information Security, 2021
 ## TASKS:
 
-__1. Laboratory work 1a__
+[__1. Laboratory work 1a__](https://github.com/cyberknopa/Python/blob/main/TIMP/Lab_1.py)
 
 Develop a program that prohibits the creation, copying or renaming of 
 files with specified names in the current (the one where it is located) directory 
