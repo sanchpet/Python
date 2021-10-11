@@ -23,4 +23,3 @@ a) Time-limited (time limit to do no more than 3 minutes, so you can track when 
 
 b) Start-limited (limit on the number of runs should also be clear, for example - 4-5).
 
-Translated with www.DeepL.com/Translator (free version)
